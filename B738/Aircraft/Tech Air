@@ -17,7 +17,7 @@
         "zeroThrustAltitude":70000,
         "reverse":true,
         "minRPM":1000,
-        "maxRPM":10000,
+        "maxRPM":15000,
         "driveRatio":0.25,
         "engineInertia":1,
         "startupTime":10,
@@ -1102,7 +1102,7 @@
                     2.4,
                     -1.5
                 ],
-                "animations":[
+                "animations":
                     {
                         "type":"rotate",
                         "axis":"Y",
@@ -1441,7 +1441,7 @@
             "follow":{
                 "distance":65
             },
-            "cockpit":{
+            "cockpit":
                 "position":[
                     -0.3,
                     21.5,
